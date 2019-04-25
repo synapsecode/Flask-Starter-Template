@@ -14,3 +14,8 @@ Just click on the start.bat file inside the folder or run "python run.py" to sta
 
 Thats It! You can now start rapidly prototyping your flask application!
 All the Best
+
+## Project Structure
+![](filetree.jpg)
+
+You Could use the provided sass file for styling or use CSS depending on your requirements.
