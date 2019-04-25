@@ -15,7 +15,7 @@ touch run.py
 REM "Used to place the necessary code inside the 'start.bat' file"
 touch start.bat
 (
-	echo C:\PythonVirtualEnvironments\WebDevelopment\Scripts\python.exe run.py
+	echo python run.py
 
 ) > start.bat
 
