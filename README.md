@@ -3,7 +3,9 @@
 ## Setup
 
 Clone this repository then take the CreateFlaskApp.bat file and place in a folder called FlaskStarter in your C:\ Drive or any other drive.
-Next add this directory to your path environment variable to access it from anywhere on your system
+Next add this directory to your path environment variable to access it from anywhere on your system.
+#### Note: You must have python3 installed
+#### Note: This is a very basic structure. If you have a bigger project, you might wanna consider using the Flask Blueprints Structure. I have a FlaskBlueprintCreationTool too! Check it out using this link: (https://github.com/synapsecode/FlaskBlueprint-Creation-Tool) 
 
 ## Usage
 (assuming this script is in the path)
